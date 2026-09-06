@@ -82,7 +82,7 @@ onMounted(() => {
           <p>{{ t.footer }}</p>
         </div>
         <div class="footer-links">
-          <a href="mailto:euro.fuenmayor.es@gmail.com" aria-label="Email"><v-icon icon="mdi-email-outline" /></a>
+          <a href="mailto:development@eurofuenmayor.es" aria-label="Email"><v-icon icon="mdi-email-outline" /></a>
           <a href="https://www.linkedin.com/in/euro-fuenmayor" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><v-icon icon="mdi-linkedin" /></a>
           <a href="https://github.com/eurox" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><v-icon icon="mdi-github" /></a>
         </div>

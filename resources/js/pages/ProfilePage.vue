@@ -129,7 +129,7 @@ async function submitContact() {
           <p class="section-kicker">04 · {{ t.contact }}</p>
           <h2>{{ t.contactTitle }}</h2>
           <p>{{ t.contactIntro }}</p>
-          <div class="direct-contact"><span>{{ t.directContact }}</span><a href="mailto:euro.fuenmayor.es@gmail.com">euro.fuenmayor.es@gmail.com</a></div>
+          <div class="direct-contact"><span>{{ t.directContact }}</span><a href="mailto:development@eurofuenmayor.es">development@eurofuenmayor.es</a></div>
         </div>
         <v-form ref="formRef" class="contact-form" @submit.prevent="submitContact">
           <div class="form-row">
