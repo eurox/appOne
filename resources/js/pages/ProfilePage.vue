@@ -77,7 +77,9 @@ async function submitContact() {
         <div><strong>{{ t.yearsProgramming }}</strong><span>{{ t.yearsProgrammingLabel }}</span></div>
         <div><strong>{{ t.yearsWeb }}</strong><span>{{ t.yearsWebLabel }}</span></div>
         <div><strong>ServiceNow</strong><span>Certified Application Developer</span></div>
-        <div><strong>Laravel · Vue</strong><span>Full-stack engineering</span></div>
+        <div><strong>Laravel · Vue</strong><span>{{ t.metricWeb }}</span></div>
+        <div><strong>{{ t.metricEmbedded }}</strong><span>{{ t.metricEmbeddedLabel }}</span></div>
+        <div><strong>{{ t.metricGames }}</strong><span>{{ t.metricGamesLabel }}</span></div>
       </div>
     </section>
 
