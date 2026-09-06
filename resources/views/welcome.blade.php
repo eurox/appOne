@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Euro Dario Fuenmayor Contreras - Web developer portfolio">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>Eurox's AppOneAlpha</title>
     @vite('resources/js/app.js')
 </head>

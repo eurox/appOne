@@ -11,8 +11,12 @@ body { margin: 0; background: #fff; color: rgba(0,0,0,.78); font-family: Roboto,
 .profile-role { font-size: 16px; color: #777; }
 .profile-copy { margin-top: 4px; font-size: 15px; color: #777; }
 .skill-row { min-height: 40px; padding: 10px 18px; border-top: 1px solid #eee; text-align: center; font-size: 16px; }
-.angular-row { display: flex; justify-content: center; align-items: center; gap: 6px; }
-.angular-logo { width: 32px; height: 32px; }
+.technology-row { display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; }
+.technology-icons { display: inline-flex; align-items: center; gap: 4px; }
+.technology-logo { width: 30px; height: 30px; }
+.laravel-icon { color: #ff2d20; }
+.vue-icon { color: #42b883; }
+.vuetify-icon { color: #1867c0; }
 .intro { padding: 20px 48px 14px; text-align: center; font-size: 16px; line-height: 1.25; }
 .demo-tabs { border-top: 1px solid #eee; border-bottom: 1px solid #ddd; }
 .demo-card { padding: 16px 32px 28px; }
