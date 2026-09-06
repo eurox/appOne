@@ -39,7 +39,7 @@ onMounted(() => {
     <v-app-bar class="site-header" flat height="72">
       <div class="header-inner">
         <router-link class="brand" to="/profile" aria-label="Euro Fuenmayor - Home">
-          <span class="brand-mark">EF</span>
+          <img class="brand-portrait" :src="'/eurox.jpg'" alt="" width="44" height="44">
           <span><strong>Euro Fuenmayor</strong><small>Senior Developer</small></span>
         </router-link>
 
