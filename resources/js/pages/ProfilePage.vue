@@ -16,12 +16,14 @@
         </span>
         <span>I developed this app using Laravel 13.30.1, Vue 3.5.42 and Vuetify 3.13.3.</span>
       </div>
-      <div class="skill-row">PHP, JavaScript, TypeScript(entry level), HTML/CSS, Jquery</div>
+      <div class="skill-row">PHP, JavaScript, TypeScript, HTML/CSS, Jquery</div>
       <div class="skill-row">Certified Application Developer by ServiceNow</div>
-      <div class="skill-row">Frameworks/Platforms: Laravel, Express, Vue, Vuetify, Bootstrap, ServiceNow</div>
+      <div class="skill-row">Use of AI tools following SDD (Spec-Driven Development)</div>
+      <div class="skill-row">Frameworks/Platforms: ServiceNow, Laravel, Express, Next.js, Electron, Vue, Vuetify, Bootstrap</div>
       <div class="skill-row">Databases: MYSQL/MariaDB, MSSQL</div>
       <div class="skill-row">Development of embedded electronic systems based on microcontrollers (Microchip PIC, Atmel Arduino and Espressif ESP32), and PCB design</div>
-      <div class="skill-row">Professor and school coordinator at undergraduate and postgraduate levels, teaching various subjects in electronics and mathematics, and serving as a thesis advisor for undergraduate and postgraduate students</div>
+      <div class="skill-row">University professor, academic coordinator, and thesis advisor for bachelor's and master's degree students, teaching courses in electronics and mathematics</div>
+      <div class="skill-row">Enthusiastic and passionate about video game development and fantasy storytelling</div>
     </v-card>
   </main>
 </template>
