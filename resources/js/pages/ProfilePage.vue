@@ -60,6 +60,7 @@ async function submitContact() {
           <div class="hero-meta">
             <span><v-icon icon="mdi-map-marker-outline" />{{ t.based }}</span>
             <span><v-icon icon="mdi-circle-medium" color="success" />{{ t.available }}</span>
+            <img class="mobile-portrait" :src="'/eurox.jpg'" alt="Euro Dario Fuenmayor Contreras" width="76" height="76">
           </div>
         </div>
         <div class="portrait-wrap">
