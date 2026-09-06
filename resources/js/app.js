@@ -34,6 +34,6 @@ createApp(App)
   .use(createVuetify({
     components: { VAlert, VApp, VAppBar, VBtn, VCard, VCardActions, VCheckbox, VDialog, VDivider, VExpandTransition, VForm, VIcon, VList, VMain, VSpacer, VTextField, VTextarea },
     directives: { Ripple },
-    theme: { defaultTheme: 'portfolioLight', themes: { portfolioLight, portfolioDark } },
+    theme: { defaultTheme: 'portfolioDark', themes: { portfolioLight, portfolioDark } },
   }))
   .mount('#app')

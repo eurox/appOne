@@ -5,7 +5,7 @@ import { messages } from './messages'
 
 const theme = useTheme()
 const locale = ref(localStorage.getItem('portfolio-locale') || 'en')
-const isDark = ref(localStorage.getItem('portfolio-theme') === 'dark')
+const isDark = ref(localStorage.getItem('portfolio-theme') !== 'light')
 const mobileMenu = ref(false)
 const t = computed(() => messages[locale.value])
 
