@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec /usr/bin/php8.3 /usr/local/bin/composer2 "$@"
